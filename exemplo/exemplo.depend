@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1596414459 source:/home/marcio/Linguagem C/exemplo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+

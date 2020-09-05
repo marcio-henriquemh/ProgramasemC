@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596302559 source:/home/marcio/Linguagem C/arearetangulo/main.c
+	<stdio.h>
+	<stdlib.h>
+

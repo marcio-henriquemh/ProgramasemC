@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598559416 source:/home/marcio/Linguagem C/triangulo/main.c
+	<stdio.h>
+	<stdlib.h>
+

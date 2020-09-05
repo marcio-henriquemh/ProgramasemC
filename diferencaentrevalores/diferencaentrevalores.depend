@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596303734 source:/home/marcio/Linguagem C/diferencaentrevalores/main.c
+	<stdio.h>
+	<stdlib.h>
+

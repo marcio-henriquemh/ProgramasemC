@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596995281 source:/home/marcio/Linguagem C/bancocreditoespecial/main.c
+	<stdio.h>
+	<stdlib.h>
+
